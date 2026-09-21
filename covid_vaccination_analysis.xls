@@ -1,0 +1,11 @@
+country,people_vaccinated,people_fully_vaccinated,people_vaccinated_per_hundred,people_fully_vaccinated_per_hundred
+Australia,,,,
+Brazil,189643431.0,176164186.0,88.08,81.82
+Canada,,,,
+France,54677678.0,53192478.0,80.63,78.44
+Germany,64876299.0,63563414.0,77.82,76.24
+India,1027438924.0,951990552.0,72.5,67.18
+Italy,50936719.0,47947097.0,86.28,81.21
+Japan,104705133.0,103380343.0,84.47,83.4
+United Kingdom,53813491.0,50762968.0,79.71,75.19
+United States,270227181.0,230637348.0,81.39,69.47
